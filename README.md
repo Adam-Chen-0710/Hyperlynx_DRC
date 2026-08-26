@@ -1,6 +1,3 @@
 # Hyperlynx_DRC
 Hyperlynx DRC knowledge
-x
-xx
-xxx
-xxxx
+Adam update the information
